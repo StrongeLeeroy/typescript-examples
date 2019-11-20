@@ -1,0 +1,13 @@
+{
+  "name": "typescript-examples",
+  "version": "0.0.1",
+  "description": "Collection of TypeScript examples for training sessions.",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "rxjs": "^6.5.3"
+  },
+  "scripts": {},
+  "author": "Gorka Hernandez Estomba <info@gorkahernandez.com> (https://www.gorkahernandez.com/)",
+  "license": "MIT"
+}
