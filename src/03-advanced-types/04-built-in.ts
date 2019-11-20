@@ -30,7 +30,7 @@ type UserRequired = Required<User>;
 
 const gorka: UserRequired = {
     username: 'gorka.hernandez',
-    email: 'gorka.hernandez@enverus.com',
+    email: 'info@gorkahernandez.com',
     birthday: new Date(1991, 10, 4)
 };
 
@@ -50,6 +50,6 @@ type MinimalUser = Pick<ApplicationUser, 'username' | 'email'>
 
 const gorka2: MinimalUser = {
     username: 'gorka.hernandez',
-    email: 'gorka.hernandez@enverus.com',
+    email: 'info@gorkahernandez.com',
 
 };
